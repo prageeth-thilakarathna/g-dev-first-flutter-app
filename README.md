@@ -1,6 +1,6 @@
 # Google for Developers
 
-A new Flutter project.
+A First Flutter project.
 
 ## Getting Started
 
